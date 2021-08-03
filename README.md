@@ -1,3 +1,4 @@
-To run the program:  
+## Steps to run:  
+
 `npm install`  
 `npm start`
